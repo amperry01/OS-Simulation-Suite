@@ -1,0 +1,10 @@
+./allocator 50
+allocator> RQ A 10 F
+allocator> RQ B 10 F
+allocator> RQ C 10 F
+allocator> STAT V
+allocator> RL B
+allocator> STAT V
+allocator> C
+allocator> STAT V
+allocator> X
